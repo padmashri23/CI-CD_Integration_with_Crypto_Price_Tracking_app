@@ -1,2 +1,2 @@
-# CI-CD_Project_Integration_with_Crypto_Price_Tracking_app
+# CI/CD_Integration_with_Crypto_Price_Tracking_app
 Automatically Apply Terraform with AWS CodeBuild
