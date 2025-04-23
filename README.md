@@ -1,6 +1,33 @@
 # CI/CD Integration with Crypto Price Tracking App
 
-## 📀 Automatically Apply Terraform with AWS CodeBuild
+## 📀 Automatically Apply Terraform with AWS EC2 Instance
+
+### 🌍 Why Terraform?
+
+Terraform is a powerful **Infrastructure as Code (IaC)** tool that enables efficient, scalable, and automated infrastructure management. Here's why it stands out:
+
+<p align="center">
+  <strong>✅ Key Benefits of Terraform Over Manual Setup</strong>
+</p>
+
+<p align="center">
+   
+  ✔️ Infrastructure is repeatable & consistent<br>
+   
+  ✔️ Fast, automated deployment<br>
+  
+  ✔️ Easily scales with configurations<br>
+  
+  ✔️ Changes are tracked in Git<br>
+  
+  ✔️ Easier rollback in case of issues<br>
+  
+  ✔️ Teams can collaborate via code
+  
+</p>
+
+Using Terraform with your **CI/CD pipeline** ensures **stability, visibility, and productivity**—especially when deploying modern apps like **React.js on AWS EC2**.
+
 
 ## 🚀 Deploying a React.js App on AWS EC2 Using Terraform
 
